@@ -14,7 +14,28 @@ section h2 {
   font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif;
 }
 
+.champion {
+  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
+}
 
+
+.flame  {
+  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none;
+}
+
+
+.flame2  {
+  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
+}
+
+
+.first_ed {
+    font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
+}
+
+.second_ed {
+    font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
+}
 
 
 
@@ -29,13 +50,13 @@ section h2 {
 }
 
 
+.hobbs {
+  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; line-height: 30px;
+}
 
-
-
-
-
-
-
+.skill {
+  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; line-height: 30px;
+}
 
 
 
