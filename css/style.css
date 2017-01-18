@@ -1,19 +1,52 @@
-#personalDetails {
-	line-height: 5px;
+header h1 {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
 }
 
-#Experience {
-	line-height: 5px
+#summary {
+  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif;
 }
+
+section h2 {
+  font-family: Segoe, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#personaldetails {
+  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif;
+}
+
+
+
+
+
+
+
+#Skills {
+  list-style-type: none;
+}
+
+#Hobbies {
+  list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+aside {
+  font-family: Segoe, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
 
 footer {
 	line-height: 200px;
 }
 
-.champion {
-	color: blue;
-}
-
-.flame {
-	color: purple;
-}
+ 
+ 
