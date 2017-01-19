@@ -1,68 +1,75 @@
+body {
+  padding-left: 10px; 
+}
+
 header h1 {
-  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+  font-family: 'Playfair Display SC', serif; font-size: 45px;
+}
+
+#train{
+  font-family: 'Playfair Display', serif; font-size: 35px;
 }
 
 #summary {
-  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif;
+  
 }
 
 section h2 {
-  font-family: Segoe, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+
 }
 
 #personaldetails {
-  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif;
+
 }
 
+#Experiences {
+
+}
+
+
 .champion {
-  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
+ list-style-type: none; padding-left: 10px
 }
 
 
 .flame  {
-  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none;
+ list-style-type: none;padding-left: 10px
 }
 
 
 .flame2  {
-  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
+ list-style-type: none; padding-left: 10px
 }
 
 
 .first_ed {
-    font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
+ list-style-type: none; padding-left: 10px;
 }
 
 .second_ed {
-    font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; list-style-type: none; 
-}
-
-
-
-
-
-#Skills {
-  list-style-type: none;
+   list-style-type: none; padding-left: 10px
 }
 
 #Hobbies {
-  list-style-type: none;
+  
 }
 
-
-.hobbs {
-  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; line-height: 30px;
+#Skills {
+  
 }
 
-.skill {
-  font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond,  'Times New Roman', serif; line-height: 30px;
+.hobbies {
+  line-height: 30px; list-style-type: none; padding-left: 10px
 }
 
-
-
-aside {
-  font-family: Segoe, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+.skills {
+  line-height: 30px; list-style-type: none; padding-left: 10px
 }
+
+#links {
+  padding-left: 10px
+}
+
 
 
 footer {
