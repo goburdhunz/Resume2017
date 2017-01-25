@@ -1,80 +1,226 @@
 body {
-  padding-left: 10px; 
+  background-color:#f6f3ea;
 }
 
-header h1 {
-  font-family: 'Playfair Display SC', serif; font-size: 45px;
+#topblock {
+  width: 100%;
+  height: 100px;
+  background-color:  #f6f3ea;
+  float: left;
 }
 
-#train{
-  font-family: 'Playfair Display', serif; font-size: 35px;
-}
-
-#summary {
+#links a {
+  color: black;
+  margin-left: 170px;
+  font-weight: 900;
   
 }
 
-section h2 {
+#image1 {
+  background-image: url(https://4.bp.blogspot.com/-k8IX2Mkf0Jo/U4ze2gNn7CI/AAAAAAAA7xg/iKxa6bYITDs/s0/HOT+Balloon+Trip_Ultra+HD.jpg);
+  width: 1440px;
+  height: 400px;
+  margin-top: 0px;
+  background-size: cover;
+
+} 
+
+
+#who {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: 900;
+  font-size:300%;
+  margin-top: -160px;
+  color: white;
+  margin-left: 20px;
+}
+
+
+.summary {
+  font-family: 'Playfair Display', serif;
+  margin-top:75px;
+  margin-left: 180px;
+  display: inline-block;
+  font-size:200%;
+  width: 80%;
+  line-height:150%;
+}
+
+#image2 {
+  background-image: url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/07/4k-wallpaper-11.jpg); 
+  width: 1440px;
+  height: 400px;
+  margin-top: 50px;
+  background-size: cover;
+}
+
+#image2 h2 {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    color: white;
+    font-weight: 900;
+    font-size: 300%;
+    letter-spacing: 8px;
+    margin-left: 20px;
+}
+
+#secone {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  margin-left: 500px;
+  float: left;
 
 }
 
 #personaldetails {
+  line-height: 50%;
+  font-size: 200%;
+  font-weight: 900;
+  font-family: 'Playfair Display', serif;
+}
+
+#clear1 {
+  clear: both;
+}
+
+
+#image3 {
+  background-image: url(http://media-minecraftforum.cursecdn.com/attachments/231/687/636140306765060941.jpg); 
+  width: 1440px;
+  height: 400px;
+  margin-top: 50px;
+  background-size: cover;
 
 }
+
+#image3 h2 {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    color: white;
+    font-weight: 900;
+    font-size: 300%;
+    letter-spacing: 8px;
+    margin-left: 20px;
+}
+
 
 #Experiences {
-
+  margin-top: 70px;
+  margin-left:470px;
+  display: inline-block;
+  line-height: 100%;
+  font-size: 200%;
+  font-weight: 900;
+  font-family: 'Playfair Display', serif;
+  list-style: none;
 }
-
 
 .champion {
- list-style-type: none; padding-left: 10px
+  list-style: none;
+}
+
+.flame {
+  list-style: none;
+}
+
+.flame2 {
+  list-style: none;
+}
+
+#image4 {
+  background-image: url(http://desktopwalls.net/wp-content/uploads/2015/09/Bethesda%20Arcade%20Central%20Park%20New%20York%204K%20Ultra%20HD%20Desktop%20Wallpaper.jpg); 
+  width: 1440px;
+  height: 400px;
+  margin-top: 50px;
+  background-size: cover;
+
+}
+
+#image4 h2 {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    color: white;
+    font-weight: 900;
+    font-size: 300%;
+    letter-spacing: 8px;
+    margin-left: 20px;
 }
 
 
-.flame  {
- list-style-type: none;padding-left: 10px
+#Qualifications ul {
+  margin-top: 70px;
+  margin-left:470px;
+  display: inline-block;
+  line-height: 100%;
+  font-size: 200%;
+  font-weight: 900;
+  font-family: 'Playfair Display', serif;
+  list-style: none;
+}
+
+#image5 {
+  background-image: url(http://static.tumblr.com/8c3b56d746c64403ddd162b88e1bfd43/yfx56li/IX0nrvnyz/tumblr_static_e4tvl8lv34occckwocw8s8soo.jpg); 
+  width: 1440px;
+  height: 450px;
+  margin-top: 50px;
+  background-size: cover;
 }
 
 
-.flame2  {
- list-style-type: none; padding-left: 10px
+#image5 h2 {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    color: white;
+    font-weight: 900;
+    font-size: 350%;
+    letter-spacing: 8px;
+    margin-left: 20px;
+
+}
+
+#Skills ul {
+  margin-top: 70px;
+  margin-left:470px;
+  display: inline-block;
+  line-height: 100%;
+  font-size: 200%;
+  font-weight: 900;
+  font-family: 'Playfair Display', serif;
+  list-style: none;
 }
 
 
-.first_ed {
- list-style-type: none; padding-left: 10px;
+#image6 {
+  background-image: url(https://images-eu.ssl-images-amazon.com/images/I/71TWDsxeSQL.jpg); 
+  width: 1440px;
+  height: 450px;
+  margin-top: 50px;
+  background-size: cover;
 }
 
-.second_ed {
-   list-style-type: none; padding-left: 10px
+#image6 h2 {
+  font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    color: white;
+    font-weight: 900;
+    font-size: 350%;
+    letter-spacing: 8px;
+    margin-left: 20px;
 }
 
-#Hobbies {
-  
+#Hobbies ul {
+  margin-top: 70px;
+  margin-left:470px;
+  display: inline-block;
+  line-height: 100%;
+  font-size: 200%;
+  font-weight: 900;
+  font-family: 'Playfair Display', serif;
+  list-style: none;
+  margin-bottom: 100px;
 }
-
-#Skills {
-  
-}
-
-.hobbies {
-  line-height: 30px; list-style-type: none; padding-left: 10px
-}
-
-.skills {
-  line-height: 30px; list-style-type: none; padding-left: 10px
-}
-
-#links {
-  padding-left: 10px
-}
-
-
-
+ 
 footer {
-	line-height: 200px;
+  margin-bottom: 20px;
+  margin-left: 600px;
 }
-
- 
- 
