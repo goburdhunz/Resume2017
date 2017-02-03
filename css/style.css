@@ -51,7 +51,11 @@
 
 .owner .links {
   margin-top: -40px;
-  opacity: 0.4;
+  opacity: 0.6;
+}
+
+.links a:hover{
+  color:#B22222 ;
 }
 
 .links a {
@@ -90,6 +94,9 @@
 
 }
 
+.foot:hover{
+  color:#B22222;
+}
 
 .foot a {
   color: white;
@@ -97,6 +104,9 @@
   font-style: italic;
 }
 
+.foot a:hover{
+  color:#B22222 ;
+}
 
 #perse h2 {
   font-size: 150%;
